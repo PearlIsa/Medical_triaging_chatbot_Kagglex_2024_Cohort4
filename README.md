@@ -47,14 +47,6 @@ The project incorporates five key datasets:
 3. **Severity Classifier**: Assesses the urgency of reported symptoms based on user responses.
 4. **Recommendation Engine**: Provides appropriate advice based on symptom severity and user context.
 
-## Setup and Installation
-
-[Include instructions for setting up the environment and installing necessary dependencies]
-
-## Usage
-
-[Provide instructions on how to run the chatbot, including any command-line arguments or configuration settings]
-
 ## Demo
 
 The project includes a Gradio-based demo interface for easy interaction with the chatbot. To launch the demo:
