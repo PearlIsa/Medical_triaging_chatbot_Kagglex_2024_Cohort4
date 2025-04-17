@@ -1,0 +1,6 @@
+HF_TOKEN=your_hf_token
+KAGGLE_USERNAME=your_kaggle_username
+KAGGLE_KEY=your_kaggle_key
+WANDB_KEY=your_wandb_key_if_used
+MODEL_PATH=google/gemma-7b
+EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
